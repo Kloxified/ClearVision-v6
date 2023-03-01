@@ -29,7 +29,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-overlay: rgb(66,69,73);
   --user-popout-image: url('https://imgur.com/a/6eiAK1n');
   --user-popout-position: center;
   --user-popout-size: cover;
